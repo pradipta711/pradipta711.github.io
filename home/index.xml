@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Pradipta Pariyal</title>
+    <link>https://pradipta711.github.io/home/</link>
+    <description>Recent content in Homes on Pradipta Pariyal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://pradipta711.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://pradipta711.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://pradipta711.github.io/home/about/</guid>
+      <description>Biography  Hello! I am a graduate student pursuing Computer Science at University at Albany, seeking full-time opportunities from May 2019. I am passionate about web application development and software design. I possess strong research, analytical skills and have a keen eye for detail. My other areas of interest include Cloud Computing, Natural Language Processing and Machine Learning.
+In my free time I love to indulge in various forms of art, cooking and reading!</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://pradipta711.github.io/home/experience/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://pradipta711.github.io/home/experience/</guid>
+      <description>Digital Scholarship Graduate Assistant,University At Albany [August 2018-Present]
+Involved in concept design and implementation of the Digital Scholarship Website in the University Library  Created lesson plan and conducted iLearn workshops for Text Analysis and Natural Language Processing using python 
+Software Engineer, Atos Ltd, Pune : COE-Industry 4.0 [March 2016 - June 2017]
+ Developed, maintained and enhanced web applications on Spring MVC framework and Maven using bootstrap, CSS, HTML, JS  Integrated application with database and writing complex SQL queries to store and extract data  Implemented using the Agile Software Development Methodology (JIRA) tool and version controlling using Git  Written JUnit test cases and verified code quality using SonarQube</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://pradipta711.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://pradipta711.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>https://pradipta711.github.io/home/award/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://pradipta711.github.io/home/award/</guid>
+      <description>Certification and Awards  Received the Anna Radkowski-Lee Graduate Assistantship Award Recieved Post Graduation Diploma in Mobile Computing from Center for Development in Advanced Computing, January 2016 Secured 1st position in Project Fair on “Design, implementation and analysis different fairness algorithm for SMRT services over MSS band” at NSIT Jetalpur, April 2015 Secured 1st position in poster-presentation on“Artificial Intelligence” at Inter-University event Avishkar-2013 Runners-up in technical quiz at State level technical event Avishkar- 2014</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://pradipta711.github.io/home/search/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://pradipta711.github.io/home/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://pradipta711.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://pradipta711.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
